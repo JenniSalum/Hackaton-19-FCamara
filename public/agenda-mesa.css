@@ -1,0 +1,112 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* ---------- header ---------- */
+
+header {
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* ---------- logo ---------- */
+
+.logo {
+  position: relative;
+  justify-content: center;
+  width: 16rem;
+  margin-top: 2.5rem;
+}
+
+/* ---------- main ---------- */
+
+.main {
+  height: 53rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.agendamento-mesa {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.tela-agendamento {
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(232, 224, 224, 0.8);
+  border-radius: 2rem;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-80%, -50%);
+  width: 50rem;
+  height: 35rem;
+}
+
+h1 {
+  color: white;
+  font-size: 2rem;
+  width: 100%;
+  margin-top: 0;
+  border-top-left-radius: 2rem;
+  border-top-right-radius: 2rem;
+  height: 65px;
+  background-color: #ba68c8;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.agendamento-mesa .btn {
+  display: flex;
+  justify-content: flex-start;
+  margin-left: 10px;
+  margin-top: 290px;
+}
+
+.agendamento-mesa .map img {
+  width: 400px;
+  margin-left: 105px;
+}
+
+/* button {
+  background-color: white;
+  width: 160px;
+  height: 40px;
+  font-size: 1.65rem;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-bottom: 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+} */
+
+button:hover{
+  background-color: #ba68c8;
+  color: white;
+}
+
+/* ---------- footer ---------- */
+
+.footer {
+  justify-content: center;
+  font-size: 1.2rem;
+  line-height: 1.5rem;
+}
+
+.footer p {
+  color: #969595;
+  text-align: center;
+}
