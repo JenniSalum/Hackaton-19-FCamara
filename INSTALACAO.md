@@ -43,7 +43,8 @@ npm
 ou
    
 yarn
-```
+``` 
+
 + Agora inicie a aplicação localmente utilizando o comando:
 ```
 yarn dev
