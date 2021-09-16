@@ -44,9 +44,9 @@ Trata-se de um website que ajuda você a programar sua rotina de trabalho. Nele 
 <br>
 <br>
 
-<p align="center">## Layout 🖼️</p>  
+<h1 align="center"> Layout 🖼️</h1>  
 
-<p align="center">### Mobile 📱</p>
+<h2 align="center">Mobile 📱</h2>
 
 <p align="center">
   <img alt="FCalendar" src="https://i.postimg.cc/CLnNX0DN/mob-login2.png" width="200px"> 
@@ -55,7 +55,7 @@ Trata-se de um website que ajuda você a programar sua rotina de trabalho. Nele 
   <img alt="FCalendar" src="https://i.postimg.cc/90Y9Tcnd/mob-agendamento.png" width="200px"> 
 
 	
-<p align="center">### Desktop 🖥️</p>
+<h2 align="center"> Desktop 🖥️</h2>
 
 
 <p align="center">
@@ -125,7 +125,7 @@ Este projeto está sob licença: [![APM](https://img.shields.io/apm/l/react)](ht
 <br>
 <br>
 
-> ## Autores 🦸‍♀️🦸‍♂️🦸🦸‍♂️
+> ## Autores 🦸‍♀️🦸‍♂️🦸🦸‍♂️ [Squad 19🧡]
 
 + David do Carmo Santos - [GitHub](https://github.com/davidscarmo) | [Linkedin](https://www.linkedin.com/in/davidscarmo/)
 + Gabriel Deciomo Martins - [GitHub](https://github.com/gab360rieal) | [Linkedin](https://www.linkedin.com/in/gabriel-deciomo-martins-6468b91b0/)
